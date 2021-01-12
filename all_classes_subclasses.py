@@ -1,3 +1,13 @@
+"""
+all_classes_subclasses.py
+A subclass in VW is realised with a "-". This script ask for a prefix and uses it as a parent class for all classes in a VW file.
+Besides the subclass functionality the script includes a simple user dialog from relume (https://forum.vectorworks.net/index.php?/topic/68801-python-dialog-box/)
+Author: Maximilian Kurz
+Date: 12/01/2021
+License: MIT
+"""
+
+
 import vs
 
 # dialog
