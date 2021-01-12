@@ -1,3 +1,12 @@
+"""
+rename_classes.py
+A simple script that renames multiple classes or parts of classes. This is useful as you can rename just one class at a time in VW. 
+Besides the renaming functionality the script includes a simple user dialog. 
+Author: Maximilian Kurz
+Date: 12/01/2021
+License: MIT
+"""
+
 import vs
 
 # dialog
