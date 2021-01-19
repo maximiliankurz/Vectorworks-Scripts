@@ -1,5 +1,13 @@
-import vs
+"""
+objects_to_symbol.py
+Replace objects like groups, rectangles, circles with a symbol definition. Useful for a large number of same/similar objects (for example tree-groups...). 
+Includes a simple user dialog based on the one by relume (https://forum.vectorworks.net/index.php?/topic/68801-python-dialog-box/)
+Author: Maximilian Kurz
+Date: 19/01/2021
+License: MIT
+"""
 
+import vs
 
 # dialog funtion
 def dialog_input_simple(vDialog_Titel = '', vDialog_Text = '', vDialog_Text_help = '', vDialog_Text_input = ''):
