@@ -1,3 +1,5 @@
+import vs
+
 """
 divide_line_by_length.py
 Sometimes you don't want to divide a line by the number of parts, but by length. 
@@ -7,8 +9,6 @@ Author: Maximilian Kurz
 Date: 12/01/2021
 License: MIT
 """
-
-import vs
 
 script_title = "Divide Line By Length"
 div_length = 2.2
