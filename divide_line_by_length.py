@@ -1,3 +1,13 @@
+"""
+divide_line_by_length.py
+Sometimes you don't want to divide a line by the number of parts, but by length. 
+This is what this script does, you can choose wheter you'd like to divide evenly with the rounded number or precise with a rest. 
+Includes a simple user dialog from relume (https://forum.vectorworks.net/index.php?/topic/68801-python-dialog-box/)
+Author: Maximilian Kurz
+Date: 12/01/2021
+License: MIT
+"""
+
 import vs
 
 script_title = "Divide Line By Length"
